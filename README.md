@@ -326,7 +326,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
             -webkit-text-stroke-width: 0px; background-color: rgb(255,
             255, 255); text-decoration-style: initial;
             text-decoration-color: initial;"><a
-              href="/LRPT_Decoder_v56.zip?raw=true">/LRPT_Decoder_v56.zip</a><br>
+              href="/LRPT_Decoder_v56.zip?raw=true">LRPT_Decoder_v56.zip</a><br>
           </p>
           <p class="_1qeIAgB0cPwnLhDF9XSiJM" style="margin: 0px;
             padding: 0.25em 0px; border: 0px; font-style: normal;
@@ -406,7 +406,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
             archive!<br>
           </p>
           <br>
-          Download:<a href="http://www.meteorgis.space/" target="_blank">MeteorGIS</a><br>
+          Download: <a href="http://www.meteorgis.space/" target="_blank">MeteorGIS</a><br>
           <br>
           Many changes read the changelog.<br>
           Use the tool "MeteorGIS_Configurator" who verify the .ini, and
