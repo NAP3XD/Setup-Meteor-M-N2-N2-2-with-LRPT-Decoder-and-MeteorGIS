@@ -6,24 +6,13 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Setup Meteor M-N2/N2-2 with LRPTDecoder</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="http://html5-templates.com/">
-    <link rel="apple-touch-icon" href="apple-touch-icon.png">
-    <!-- Place favicon.ico in the root directory -->
-    <link rel="stylesheet" href="style.css">
-    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
   <body>
-    <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
     <div class="wrapAll clearfix">
       <div class="mainsection"><br>
         <div class="article">
-          <h1>Setup Meteor M-N2/N2-2 with LRPT-Decoder</h1>
-          <h1> </h1>
           <div class="articleRight"> <img src="img/meteor_m_2.gif"
               alt="sat" width="121" height="70"><br>
           </div>
@@ -96,15 +85,12 @@
             background-color: rgb(255, 255, 255); text-decoration-style:
             initial; text-decoration-color: initial;">(Check current
             Meteor Mode's overhere: <a
-              href="http://happysat.nl/Meteor/html/Meteor_Status.html"
-              target="_blank">http://happysat.nl/Meteor/html/Meteor_Status.html</a>)<br>
+              href="https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status"
+              target="_blank">https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status</a>)<br>
           </p>
-          <br>
           <div class="contentsPanel">
-            <div class="contentsHeader">Contents</div>
+            <div class="contentsHeader">Contents:</div><br>
             <ul>
-              <li> <span>1</span>Overview
-                <ul>
                   <li><span>1.1&nbsp; <a href="#Hardware_Details">Hardware</a></span>
                   </li>
                   <li><span>1.2&nbsp; <a href="#Software_">Software</a></span>
@@ -119,18 +105,18 @@
                   <li><span>1.5&nbsp; <a href="#Setup_QPSK_Plugin_">Setup
                         Meteor Demodulator Plugin</a></span><br>
                   </li>
-                  <li><span>1.6 </span><span><a
+                  <li><span>1.6&nbsp; </span><span><a
                         href="#Setup_LRPT-Decoder_for">LRPT-Decoder
                         Meteor M-N2/2-2</a> </span></li>
-                  <li><span>1.7 </span><a href="#Setup_MeteorGIS_">Setup
+                  <li><span>1.7&nbsp; </span><a href="#Setup_MeteorGIS_">Setup
                       MeteorGIS M-N2 and N2-2<br>
                     </a></li>
                   <li>1.8&nbsp; <a href="#Manual_LRPT-Decoder_setup_">Manual
                       LRPT-Decoder setup</a></li>
                   <li>1.9&nbsp; <a href="#Other_Tools_">Other Tools</a></li>
-                  <li><span>2.0 <a href="#Telemetry_Unpacker_">Telemetry
+                  <li><span>2.0&nbsp; <a href="#Telemetry_Unpacker_">Telemetry
                         Unpacker</a></span></li>
-                  <li><span>2.1 <a
+                  <li><span>2.1&nbsp; <a
                         href="#Amateur_Meteor_Images_Global_Observation">AMIGOS</a><br>
                     </span></li>
                 </ul>
@@ -175,13 +161,10 @@
           4.5v software switched Bias-Tee to power LNA’s and
           up/down-converters.<br>
           <br>
-          <br>
-          <br>
           <a
 href="https://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smartee-sdr.html"
             target="_blank"><img src="img/nesdr.png" alt="" width="306"
               height="161" border="0"></a><br>
-          <br>
           <a
 href="https://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smartee-sdr.html"
             target="_blank">Nooelec NESDR SMArTee - Premium RTL-SDR</a><br>
@@ -262,7 +245,7 @@ href="https://www.nooelec.com/store/sdr/sdr-addons/sawbird/sawbird-plus-noaa-308
           <br>
           137Mhz Antenna Double Cross, Qfh, Turnstile or V-Dipoles:<br>
           <br>
-          <a href="http://happysat.nl/Double_Cross/" target="_blank"
+          <a href="https://github.com/happysat/Double-Cross-Antenna/" target="_blank"
             style="text-decoration:none">Double Cross Jerry Martes
             Design</a><br>
           <br>
@@ -286,6 +269,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
               alt="sdrsharp" width="558" height="203"><br>
             SDRSharp, Orbitron, LRPT-Decoder<br>
           </div>
+          <br>
           <a href="https://airspy.com/download" target="_blank"
             style="text-decoration:none">SDRSharp</a><br>
           <br>
