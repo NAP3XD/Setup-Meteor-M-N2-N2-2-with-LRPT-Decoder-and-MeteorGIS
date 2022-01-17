@@ -286,7 +286,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
             -webkit-text-stroke-width: 0px; background-color: rgb(255,
             255, 255); text-decoration-style: initial;
             text-decoration-color: initial;"><a
-              href="http://happysat.nl/meteor_2.3.zip">Meteor
+              href="/meteor_2.3.zip?raw=true">Meteor
               Demodulator Plugin v2.3</a><br>
             <br>
             Added interaction with Meteor LRPT-Decoder via socket and
@@ -326,7 +326,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
             -webkit-text-stroke-width: 0px; background-color: rgb(255,
             255, 255); text-decoration-style: initial;
             text-decoration-color: initial;"><a
-              href="http://happysat.nl/LRPT_Decoder_v56.zip">http://happysat.nl/LRPT_Decoder_v56.zip</a><br>
+              href="/LRPT_Decoder_v56.zip?raw=true">/LRPT_Decoder_v56.zip</a><br>
           </p>
           <p class="_1qeIAgB0cPwnLhDF9XSiJM" style="margin: 0px;
             padding: 0.25em 0px; border: 0px; font-style: normal;
@@ -488,7 +488,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
           <br>
           Goto tab Rotor/Radio, make sure in Dnlink/MHz: 137.100Mhz is
           filled in (Check current Meteor Mode's overhere: <a
-            href="http://happysat.nl/Meteor/html/Meteor_Status.html">http://happysat.nl/Meteor/html/Meteor_Status.html</a>),<br>
+            href="https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status">https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status</a>),<br>
           Dnlink mode: FM-W, select SDRSharp from the Driver dropdown
           box and click the icon next to it above the lock symbol.<br>
           <br>
@@ -496,7 +496,7 @@ href="http://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.ht
           <br>
           Main Frequency in SDRSharp must be set to (Check current
           Meteor Mode's overhere: <a
-            href="http://happysat.nl/Meteor/html/Meteor_Status.html">http://happysat.nl/Meteor/html/Meteor_Status.html</a>)
+            href="https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status">https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status</a>)
           Modulation WFM and preferred bandwidth 90000 Hz.<br>
           Tuner bandwidth to 1.4MSPS, 1.4 MSPS is needed IF samplerate
           will be &gt; 288 kHz<br>
@@ -599,7 +599,7 @@ href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=ru&amp;
             <br>
             Auto searchcarrier inside the Meteor Demodulator Plugin
             tunes to (Check current Meteor Mode's overhere: <a
-              href="http://happysat.nl/Meteor/html/Meteor_Status.html">http://happysat.nl/Meteor/html/Meteor_Status.html</a>).<br>
+              href="https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status">https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status</a>).<br>
             Meteor streams and lock on the signal if its strong enough.</p>
           <p> When Sat Tracking is checked it uses Doppler correction
             for a faster signal lock.</p>
@@ -833,10 +833,7 @@ href="https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=ru&amp;
           <br>
           [GEO]<br>
           RoughStartTimeUTC=18-8-2019<br>
-          TleFileName=C:\Meteor\LRPT_Decoder\M2-2.txt&nbsp; (Use <a
-href="file:///D:/Program%20Files/SDR/Setup/Audio/Deadsat_website/Setup_Meteor/Setup.html#LRPT_Places_">Meteor
-            TLE-Loader</a> paste M-N2-2 TLE info into new text file
-          called M2-2.txt).<br>
+          TleFileName=C:\Meteor\LRPT_Decoder\M2-2.txt<br>
           Alfa_M2=110.8<br>
           Delta_M2=32<br>
           Alfa_M22=110.8<br>
@@ -875,17 +872,6 @@ href="file:///D:/Program%20Files/SDR/Setup/Audio/Deadsat_website/Setup_Meteor/Se
             and N2-2<br>
           </h2>
           <br>
-          <b>Make sure to read and understand the</b> <a
-            target="_blank"
-href="https://drive.google.com/file/d/0B9HuDROb5aCyeUF2VlVUQjVaZjQ/view?usp=sharing"
-            style="font-family: &quot;Times New Roman&quot;; font-size:
-            medium; font-style: normal; font-variant-ligatures: normal;
-            font-variant-caps: normal; font-weight: 400; letter-spacing:
-            normal; orphans: 2; text-align: -webkit-center; text-indent:
-            0px; text-transform: none; white-space: normal; widows: 2;
-            word-spacing: 0px; -webkit-text-stroke-width: 0px;">Guide
-            for MeteorGIS software for meteor MN2</a><br>
-          <br>
           Download: <a href="http://www.meteorgis.space/"
             target="_blank">MeteorGIS</a><br>
           <br>
@@ -908,7 +894,7 @@ href="https://drive.google.com/file/d/0B9HuDROb5aCyeUF2VlVUQjVaZjQ/view?usp=shar
             default.ini configuration file to edit!<br>
             <br>
             Bug in v2.24 does not create a default.ini, <a
-              href="default.zip">download default.ini overhere</a> (will
+              href="/default.zip?raw=true">download default.ini overhere</a> (will
             be fixed)!<br>
           </b> <br>
           <img src="img/MeteorGIS_Configurator.png" alt="" width="1081"
@@ -969,8 +955,8 @@ href="https://drive.google.com/file/d/0B9HuDROb5aCyeUF2VlVUQjVaZjQ/view?usp=shar
           </b><b> These lines are important:</b><br>
           <br>
           The frequency Check current Meteor Mode's overhere: <a
-            href="http://happysat.nl/Meteor/html/Meteor_Status.html"
-            target="_blank">http://happysat.nl/Meteor/html/Meteor_Status.html</a><br>
+            href="https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status"
+            target="_blank">https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status</a><br>
           <br>
           set PSK_set_SymbolRate &lt;72000&gt; for Meteor M-N2.<br>
           <br>
@@ -990,8 +976,8 @@ href="https://drive.google.com/file/d/0B9HuDROb5aCyeUF2VlVUQjVaZjQ/view?usp=shar
           <b>These lines are important:</b><br>
           <br>
           The frequency Check current Meteor Mode's overhere: <a
-            href="http://happysat.nl/Meteor/html/Meteor_Status.html"
-            target="_blank">http://happysat.nl/Meteor/html/Meteor_Status.html</a><br>
+            href="https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status"
+            target="_blank">https://github.com/happysat/Meteor-M-N2-and-N2-2-Satellite-Operational-Status</a><br>
           <br>
           set PSK_set_SymbolRate &lt;Auto&gt; <br>
           <br>
@@ -1322,9 +1308,7 @@ href="https://drive.google.com/file/d/0B9HuDROb5aCyeUF2VlVUQjVaZjQ/view?usp=shar
                     text-decoration-color: initial; display: inline
                     !important; float: none;"><br>
                   </span></span></span> Make the changes for manual
-              processing in LRPT-Decoder explained <a
-href="file:///D:/Program%20Files/SDR/Setup/Website/Setup_Meteor/Setup.html#Manual_LRPT-Decoder_setup_">below</a>:<br>
-              <br>
+              processing in LRPT-Decoder.<br>
             </span></span><span style="color: rgb(34, 34, 34);
             font-family: sans-serif; font-size: 14px; font-style:
             normal; font-variant-ligatures: normal; font-variant-caps:
@@ -1558,7 +1542,7 @@ href="file:///D:/Program%20Files/SDR/Setup/Website/Setup_Meteor/Setup.html#Manua
           processing. <br>
           Roll, pitch, yaw can improve snapping to absolute accuracy!<br>
           <br>
-          Download <a href="http://happysat.nl/Telemetry.zip">Telemetry
+          Download <a href="/Telemetry.zip?raw=true">Telemetry
             Unpacker</a><br>
           <br>
           <br>
@@ -1620,7 +1604,7 @@ href="file:///D:/Program%20Files/SDR/Setup/Website/Setup_Meteor/Setup.html#Manua
           AmigosViewer is a program to view received data from users on
           the server as an image.<br>
           <br>
-          Download: <a href="http://happysat.nl/AMIGOS.zip">
+          Download: <a href="/AMIGOS.zip?raw=true">
             AmigosViewer</a><br>
           <br>
           Setup AmigosViewer:<br>
@@ -1658,12 +1642,6 @@ href="file:///D:/Program%20Files/SDR/Setup/Website/Setup_Meteor/Setup.html#Manua
           Herman-PB0AHX (Host), Mother Russia (Meteor M-N-Serie), and
           everybody on the Facebook APT-Group!<br>
         </div>
-        <div class="pagefooter"> This page was last edited on 22.08.2020
-          | Setup Meteor M-N2/N2-2 with LRPT-Decoder by Happysat </div>
-      </div>
     </div>
-    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-    <script src="script.js"></script>
   </body>
 </html>
